@@ -1,3 +1,4 @@
 ﻿  movement.cpp
 movement.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
-  sanwei.vcxproj -> E:\works\CG\3Droaming\sample_3Droaming\.\Release\sanwei.exe
+movement.cpp(17): warning C4838: 从“double”转换到“const GLfloat”需要收缩转换
+  sanwei.vcxproj -> E:\works\CG\move_light\sample_3Droaming\.\Release\sanwei.exe
